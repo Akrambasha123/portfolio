@@ -1,12 +1,4 @@
 
-/*
-! tailwindcss v3.1.8 | MIT License | https://tailwindcss.com
-*/
-
-/*
-1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
-2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
-*/
 
 *,
 ::before,
@@ -3273,8 +3265,8 @@ button.is-checked {
   left: -40px;
 }
 
-[dir="ltr"] .ltr\:left-\[calc\(60\%_-_20px\)\] {
-  left: calc(60% - 20px);
+[dir="ltr"] .ltr\:left-\[calc\(80\%_-_20px\)\] {
+  left: calc(80% - 20px);
 }
 
 [dir="ltr"] .ltr\:left-\[calc\(75\%_-_20px\)\] {
@@ -3797,7 +3789,7 @@ button.is-checked {
   }
 
   .sm\:pt-\[100px\] {
-    padding-top: 100px;
+    padding-top: 0px;
   }
 
   .sm\:text-center {
@@ -4074,7 +4066,7 @@ button.is-checked {
   }
 
   .lg\:py-\[100px\] {
-    padding-top: 100px;
+    padding-top: 0px;
     padding-bottom: 100px;
   }
 
@@ -4102,7 +4094,7 @@ button.is-checked {
   }
 
   .lg\:pt-\[100px\] {
-    padding-top: 100px;
+    padding-top: 0px;
   }
 
   .lg\:pt-\[165px\] {
